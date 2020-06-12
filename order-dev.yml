@@ -32,4 +32,4 @@ logging:
     root: INFO
     org.springframework.web.servlet.DispatcherServlet: DEBUG
     org.springframework.cloud.sleuth: DEBUG
-name: xzzb-dev111
+name: xzzb-dev122
